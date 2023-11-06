@@ -1,3 +1,6 @@
 Hello World!!!
 Day1: Basic of GIT
 Day2: Branching
+Line1:Bug123 (){
+//do something here to fix bug
+}
