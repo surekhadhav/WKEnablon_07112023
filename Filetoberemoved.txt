@@ -1,2 +1,0 @@
-Hello World!!!
-Day1: Basic of GIT
