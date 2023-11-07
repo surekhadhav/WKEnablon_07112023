@@ -1,7 +1,8 @@
-Hello World!!!
+Hello World!!!*******
 Day1: Basic of GIT***
 Day2: Branching***
 Line1:Bug123 (){
-//do something here to fix bug
-bug456
+//do something here to fix bug****
+bug456****
+done the changes in bug456
 }
