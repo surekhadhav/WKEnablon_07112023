@@ -6,3 +6,4 @@ Line1:Bug123 (){
 bug456****
 done the changes in bug456
 }
+adding line after remote config
